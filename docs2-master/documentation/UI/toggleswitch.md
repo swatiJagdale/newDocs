@@ -12,6 +12,12 @@ UI Componets
 					<div class="options" onclick="toggle(this);" id="yesBtn"><span>YES</span></div>
 					<div class="options" onclick="toggle(this);" id="noBtn"><span>NO</span></div>
 		</div> 
+		
+		
+		function toggle(element){
+			 $(".toggleswitch *").removeClass("active");
+			 $(element).addClass("active");
+		   }
 	
 
 Demo
