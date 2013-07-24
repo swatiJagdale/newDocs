@@ -21,18 +21,21 @@ Demo
 [Demo]: ../screenshots/header.png "Demo"
 
 		<header>
-	        <a id='backBtn' class='button back' data-back='true' data-direction='reverse' data-ajax='true' data-transition='slide'><span></span></a>
-			<h1>Auto Accident</h1>
-			<a id='doneBtn' class='button right' data-direction='reverse' data-ajax='true' data-transition='slide'><span>Done</span></a>
+			<a href='../index.html' class='button menu'><span></span></a>
+			<h1>Header Title</h1>
+			<a href='index.html' class='button right add'><span></span></a>
+		</header>
+		<header class="subheader">
+			<h2>SUBHEADER</h2>
 		</header>
 		
 		
 Demo
 
 
-![alt text][Demo]
+![alt text][headerWithAdd]
 
-[Demo]: ../screenshots/header.png "Demo"
+[headerWithAdd]: ../screenshots/headerWithAdd.png "Demo"
 
 
 		<header>
