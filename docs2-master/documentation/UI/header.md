@@ -7,9 +7,13 @@ UI Component
 ###Header
 
 		<header>
-	        <a id='backBtn' class='button back' data-back='true' data-direction='reverse' data-ajax='true' data-transition='slide'><span></span></a>
-			<h1>Auto Accident</h1>
-			<a id='doneBtn' class='button right' data-direction='reverse' data-ajax='true' data-transition='slide'><span>Done</span></a>
+			<a href='../index.html' class='button back'><span></span></a>
+			<h1>Header Title</h1>
+			<a href='index.html' class='button right'><span>Sign Out</span></a>
+		</header>
+
+		<header class="subheader">
+			<h2>SUBHEADER</h2>
 		</header>
 		
 		
