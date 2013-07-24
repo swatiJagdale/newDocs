@@ -43,13 +43,13 @@ Example
 
 [largeRedButton]: ../screenshots/largeRedButton.png "Demo"
 
-![alt text][largeRedButton]
+![alt text][mediumRedButton]
 
-[largeRedButton]: ../screenshots/largeRedButton.png "Demo"
+[mediumRedButton]: ../screenshots/mediumRedButton.png "Demo"
 
-![alt text][largeRedButton]
+![alt text][smallRedButton]
 
-[largeRedButton]: ../screenshots/largeRedButton.png "Demo"
+[smallRedButton]: ../screenshots/smallRedButton.png "Demo"
 
 #####To make changes in the size of blue and red button, we can replace the "large" class with "small" or "medium"
 
