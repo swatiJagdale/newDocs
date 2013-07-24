@@ -20,4 +20,41 @@ Demo
 
 [Demo]: ../screenshots/header.png "Demo"
 
+		<header>
+	        <a id='backBtn' class='button back' data-back='true' data-direction='reverse' data-ajax='true' data-transition='slide'><span></span></a>
+			<h1>Auto Accident</h1>
+			<a id='doneBtn' class='button right' data-direction='reverse' data-ajax='true' data-transition='slide'><span>Done</span></a>
+		</header>
+		
+		
+Demo
+
+
+![alt text][Demo]
+
+[Demo]: ../screenshots/header.png "Demo"
+
+
+		<header>
+		<div class="headerContents"> <!-- This code is use to handle two line header title-->
+        		<div class="headerSection horizontal">
+			<a href='../index.html' class='button back'><span></span></a>
+			<div class="title"><h1>Two line Header Title</h1></div>
+			<a href='index.html' class='button right'><span>Sign Out</span></a>
+		</div>
+		</div>
+		</header>
+
+		<header class="subheader">
+			<h2>SUBHEADER</h2>
+		</header>
+		
+		
+Demo
+
+
+![alt text][headertwoLine]
+
+[headertwoLine]: ../screenshots/headertwoLine.png "Demo"
+
 *[back] (UI_overview.md)*  
