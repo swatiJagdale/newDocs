@@ -11,8 +11,10 @@ UI Components contains following components
 *[footer] (footer.md)*  
 *[textinput] (textbox .md)*  
 *[header] (header.md)*  
-*[maps] (maps.md)*  
-*[popup] (popup.md)*  
+*[icons] (icons.md)*  
+*[navigation] (navigation.md)*  
+*[slider] (slider.md)*  
+*[idcard] (idcard.md)*  
 *[toggleswitch] (toggleswitch.md)*  
 *[tooltip] (tooltip.md)*  
 *[traylist] (traylist.md)*  
