@@ -20,8 +20,24 @@ UI components
 
 Example
 
-![alt text] [Demo]
-[Demo]: ../screenshots/textbox.png "Demo"   
+![alt text] [textbox]
+[textbox]: ../screenshots/textbox.png "Demo"  
+
+
+![alt text] [textInput]
+[textInput]: ../screenshots/textInput.png "Demo"   
+
+
+![alt text] [textInputNumber]
+[textInputNumber]: ../screenshots/textInputNumber.png "Demo"   
+
+
+![alt text] [numberTyped]
+[numberTyped]: ../screenshots/numberTyped.png "Demo"   
+
+
+![alt text] [textInputpassword]
+[textInputpassword]: ../screenshots/textInputpassword.png "Demo"   
 
 
 reference 
