@@ -60,7 +60,7 @@ Example
 
 ![alt text][Demo]
 
-[Demo]: ../screenshots/white_button.png "Demo"
+[Demo]: ../screenshots/whitebutton.png "Demo"
 
 
 ####Call Button
