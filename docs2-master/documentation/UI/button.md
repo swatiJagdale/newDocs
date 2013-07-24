@@ -25,7 +25,7 @@ Example
 
 ![alt text][blueMediumButton]
 
-[blue_button]: ../screenshots/blueMediumButton.png "Demo"
+[blueMediumButton]: ../screenshots/blueMediumButton.png "Demo"
 
 ![alt text][smallBlueButton]
 
