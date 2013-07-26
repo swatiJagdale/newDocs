@@ -38,11 +38,13 @@ UI Components
 			
 ![alt text][dentalIcon]
 
-[dentalIcon]: ../screenshots/dentalIcon.png "demo"
+[dentalIcon]: ../screenshots/dentalIcon.png "demo"  
+
 
 			<header class="subheader">
 				<h2 class="icon product">Product Headline with Section Icon</h2>
-			</header>
+			</header>  
+			
 			
 ![alt text][productIcon]
 
@@ -127,10 +129,7 @@ UI Components
 									</div>
 								</a>
 							</li>   
-							
-							
-							
-							
+														
 							
 ![alt text][idcardIcon]
 
