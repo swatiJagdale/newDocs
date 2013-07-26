@@ -125,12 +125,17 @@ UI Components
 										<span class='title'>ID Card</span>
 									</div>
 								</a>
-							</li>
+							</li>  
+							
+							
 							
 							
 ![alt text][idcardIcon]
 
-[idcardIcon]: ../screenshots/idcardIcon.png "demo"				
+[idcardIcon]: ../screenshots/idcardIcon.png "demo"	 
+
+  
+  
 							<li>
 								<a href='#' class='icon dentalIcon' data-transition='slide' data-ajax='true'></a>
 								<a href='#' data-transition='slide' data-ajax='true'>
@@ -143,7 +148,8 @@ UI Components
 							
 ![alt text][dental]
 
-[dental]: ../screenshots/dental.png "demo"
+[dental]: ../screenshots/dental.png "demo"  
+
 							<li>
 								<a href='#' class='icon productIcon' data-transition='slide' data-ajax='true'></a>
 								<a href='#' data-transition='slide' data-ajax='true'>
@@ -151,13 +157,14 @@ UI Components
 										<span class='title'>Product</span>
 									</div>
 								</a>
-							</li>
+							</li>  
+							
 							
 					
 ![alt text][product]
 
 [product]: ../screenshots/product.png "demo"					
-							<li>
+					<li>
 						<a href='#' class='icon contactIcon' data-transition='slide' data-ajax='true'></a>
 						<a href='#' data-transition='slide' data-ajax='true'>
 							<div>
@@ -172,6 +179,8 @@ UI Components
 
 [contact]: ../screenshots/contact.png "demo"
 
+
+
 					<li>
 						<a href='#' class='icon providerIcon' data-transition='slide' data-ajax='true'></a>
 						<a href='#' data-transition='slide' data-ajax='true'>
@@ -179,55 +188,64 @@ UI Components
 								<span class='title'>Provider</span>
 							</div>
 						</a>
-					</li>
+					</li>  
 					
+										
 					
 					
 ![alt text][provider]
 
 [provider]: ../screenshots/provider.png "demo"
+
+
 					
-							<li>
-								<a href='#' class='icon autoIcon' data-transition='slide' data-ajax='true'></a>
-								<a href='#' data-transition='slide' data-ajax='true'>
-									<div class='item'>
-										<span class='title'>Auto</span>
-									</div>
-								</a>
-							</li>
-							
-							
+					<li>
+						<a href='#' class='icon autoIcon' data-transition='slide' data-ajax='true'></a>
+						<a href='#' data-transition='slide' data-ajax='true'>
+							<div class='item'>
+								<span class='title'>Auto</span>
+							</div>
+						</a>
+					</li>  
+					
+
 							
 							
 ![alt text][autoNav]
 
-[autoNav]: ../screenshots/autoNav.png "demo"							
-							<li>
-								<a href='#' class='icon homeIcon' data-transition='slide' data-ajax='true'></a>
-								<a href='#' data-transition='slide' data-ajax='true'>
-									<div class='item'>
-										<span class='title'>Home</span>
-									</div>
-								</a>
-							</li>
+[autoNav]: ../screenshots/autoNav.png "demo"  
+
+
+					<li>
+						<a href='#' class='icon homeIcon' data-transition='slide' data-ajax='true'></a>
+						<a href='#' data-transition='slide' data-ajax='true'>
+							<div class='item'>
+								<span class='title'>Home</span>
+							</div>
+						</a>
+					</li>  
+					
 							
 							
 ![alt text][homeNav]
 
-[homeNav]: ../screenshots/homeNav.png "demo"							
-							<li>
-								<a href='#' class='icon lifeIcon' data-transition='slide' data-ajax='true'></a>
-								<a href='#' data-transition='slide' data-ajax='true'>
-									<div class='item'>
-										<span class='title'>Life</span>
-									</div>
-								</a>
-							</li>
-							
-							
-![alt text][homeNav]
+[homeNav]: ../screenshots/homeNav.png "demo"  
 
-[homeNav]: ../screenshots/homeNav.png "demo"							
+
+					<li>
+						<a href='#' class='icon lifeIcon' data-transition='slide' data-ajax='true'></a>
+						<a href='#' data-transition='slide' data-ajax='true'>
+							<div class='item'>
+								<span class='title'>Life</span>
+							</div>
+					</a>
+					</li>
+							
+							
+![alt text][lifeNav]
+
+[lifeNav]: ../screenshots/lifeNav.png "demo"  
+
 							<li>
 								<a href='#' class='icon dentalIcon' data-transition='slide' data-ajax='true'></a>
 								<a href='#' data-transition='slide' data-ajax='true'>
@@ -242,7 +260,8 @@ UI Components
 							
 ![alt text][dentalNav]
 
-[dentalNav]: ../screenshots/dentalNav.png "demo"							
+[dentalNav]: ../screenshots/dentalNav.png "demo"  
+
 							<li>
 								<a href='#' class='icon productIcon' data-transition='slide' data-ajax='true'></a>
 								<a href='#' data-transition='slide' data-ajax='true'>
@@ -250,12 +269,14 @@ UI Components
 										<span class='title'>Product</span>
 									</div>
 								</a>
-							</li>
+							</li>  
+							
 							
 							
 ![alt text][productNav]
 
-[productNav]: ../screenshots/productNav.png "demo"							
+[productNav]: ../screenshots/productNav.png "demo"  
+
 							
 							<li>
 								<a href='#' class='icon searchIcon' data-transition='slide' data-ajax='true'></a>
@@ -264,12 +285,15 @@ UI Components
 										<span class='title'>Search</span>
 									</div>
 								</a>
-							</li>
+							</li>  
+							
+							
 							
 							
 ![alt text][searchNav]
 
-[searchNav]: ../screenshots/searchNav.png "demo"							
+[searchNav]: ../screenshots/searchNav.png "demo"  
+
 							
 							<li>
 								<a href='#' class='icon moneyIcon' data-transition='slide' data-ajax='true'></a>
@@ -278,12 +302,15 @@ UI Components
 										<span class='title'>Money</span>
 									</div>
 								</a>
-							</li>
+							</li>   
+							
 							
 							
 ![alt text][moneyNav]
 
-[moneyNav]: ../screenshots/moneyNav.png "demo"							
+[moneyNav]: ../screenshots/moneyNav.png "demo"  
+
+
 							<li>
 								<a href='#' class='icon idCardIcon' data-transition='slide' data-ajax='true'></a>
 								<a href='#' data-transition='slide' data-ajax='true'>
@@ -291,10 +318,14 @@ UI Components
 										<span class='title'>ID Card</span>
 									</div>
 								</a>
-							</li>
+							</li> 
+							
+							
 ![alt text][idCardNav]
 
-[idCardNav]: ../screenshots/idCardNav.png "demo"							
+[idCardNav]: ../screenshots/idCardNav.png "demo"  
+
+
 							<li>
 								<a href='#' class='icon contactIcon' data-transition='slide' data-ajax='true'></a>
 								<a href='#' data-transition='slide' data-ajax='true'>
@@ -302,7 +333,11 @@ UI Components
 										<span class='title'>Contact</span>
 									</div>
 								</a>
-							</li>
+							</li>  
+							
+							
+							
+							
 ![alt text][conatctNav]
 
 [conatctNav]: ../screenshots/conatctNav.png "demo"					
