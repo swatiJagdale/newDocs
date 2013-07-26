@@ -19,6 +19,8 @@ UI Components
 				</li>		
 		</ul>
 		</nav>
+Example  
+
 ![alt text][callToAction]
 
 [callToAction]: ../screenshots/callToAction.png "demo"
@@ -37,6 +39,8 @@ UI Components
 				</li>
 				</ul>
 		</nav>
+Example  
+
 ![alt text][navigation]
 
 [navigation]: ../screenshots/navigation.png "demo"
@@ -56,6 +60,7 @@ UI Components
 				</ul>
 		</nav>	
 
+Example   
 
 ![alt text][subnavWithoutDetails]
 
@@ -76,6 +81,7 @@ UI Components
 			      </li>
 			      </ul>
 		</nav>
+Example  
 
 ![alt text][subnavWithDetails]
 
@@ -97,6 +103,7 @@ UI Components
 				</ul>
 		</nav>
 
+Example  
 
 ![alt text][grayNavigation]
 
