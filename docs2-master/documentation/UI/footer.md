@@ -15,7 +15,7 @@ UI components
 		
 
 
-Demo
+Example
 
 
 ![alt text][footer]
