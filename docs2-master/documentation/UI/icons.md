@@ -341,14 +341,13 @@ UI Components
 										<span class='title'>Contact</span>
 									</div>
 								</a>
-							</li>  
-							
-							
+							</li> 
 							
 							
 ![alt text][conatctNav]
 
-[conatctNav]: ../screenshots/conatctNav.png "demo"					
+[conatctNav]: ../screenshots/conatctNav.png "demo"  
+					
 					
 					
 		
