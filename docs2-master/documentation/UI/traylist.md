@@ -142,7 +142,7 @@ UI Components
 	</div>
 	
 	
-Demo
+Example
 
 
 ![alt text][Demo]
