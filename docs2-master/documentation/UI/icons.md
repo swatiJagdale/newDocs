@@ -117,7 +117,8 @@ UI Components
 							
 ![alt text][life]
 
-[life]: ../screenshots/life.png "demo"
+[life]: ../screenshots/life.png "demo"  
+
 							<li>
 								<a href='#' class='icon idCardIcon' data-transition='slide' data-ajax='true'></a>
 								<a href='#' data-transition='slide' data-ajax='true'>
@@ -125,7 +126,8 @@ UI Components
 										<span class='title'>ID Card</span>
 									</div>
 								</a>
-							</li>  
+							</li>   
+							
 							
 							
 							
@@ -143,7 +145,8 @@ UI Components
 										<span class='title'>Dental</span>
 									</div>
 								</a>
-							</li>
+							</li>  
+							
 							
 							
 ![alt text][dental]
@@ -157,13 +160,16 @@ UI Components
 										<span class='title'>Product</span>
 									</div>
 								</a>
-							</li>  
+							</li>   
+							
 							
 							
 					
 ![alt text][product]
 
-[product]: ../screenshots/product.png "demo"					
+[product]: ../screenshots/product.png "demo"  
+
+
 					<li>
 						<a href='#' class='icon contactIcon' data-transition='slide' data-ajax='true'></a>
 						<a href='#' data-transition='slide' data-ajax='true'>
@@ -239,7 +245,8 @@ UI Components
 								<span class='title'>Life</span>
 							</div>
 					</a>
-					</li>
+					</li>  
+					
 							
 							
 ![alt text][lifeNav]
@@ -261,6 +268,7 @@ UI Components
 ![alt text][dentalNav]
 
 [dentalNav]: ../screenshots/dentalNav.png "demo"  
+
 
 							<li>
 								<a href='#' class='icon productIcon' data-transition='slide' data-ajax='true'></a>
