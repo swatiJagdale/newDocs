@@ -19,7 +19,7 @@ UI Component
 		</header>
 		
 		
-Demo
+Example
 
 
 ![alt text][Demo]
@@ -38,7 +38,7 @@ Demo
 		</header>
 		
 		
-Demo
+Example
 
 
 ![alt text][headerWithAdd]
@@ -63,8 +63,7 @@ Demo
 		</header>
 		
 		
-Demo
-
+Example
 
 ![alt text][headertwoLine]
 
