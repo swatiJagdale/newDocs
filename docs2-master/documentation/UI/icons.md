@@ -5,22 +5,24 @@ UI Components
 --------------------------------
 
 ###Icons
+
+
 		
 			<header class="subheader">
 				<h2 class="icon contactUs">Contact Headline with Section Icon</h2>
 			</header>
-![alt text][lifeIcon]
+![alt text][contactIcon]
 
-[lifeIcon]: ../screenshots/lifeIcon.png "demo"
+[contactIcon]: ../screenshots/contactIcon.png "demo"
 
 			
 			<header class="subheader">
 				<h2 class="icon life">Life Headline with Section Icon</h2>
 			</header>
 			
-![alt text][autoIcon]
+![alt text][lifeIcon]
 
-[autoIcon]: ../screenshots/autoIcon.png "demo"
+[lifeIcon]: ../screenshots/lifeIcon.png "demo"
 
 			<header class="subheader">
 				<h2 class="icon auto">Auto Headline with Section Icon</h2>
@@ -41,7 +43,10 @@ UI Components
 			<header class="subheader">
 				<h2 class="icon product">Product Headline with Section Icon</h2>
 			</header>
-		
+			
+![alt text][productIcon]
+
+[productIcon]: ../screenshots/productIcon.png "demo"		
 		
 		
 		
