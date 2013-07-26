@@ -20,25 +20,37 @@ UI components
 
 Example
 
+####TextBox
+
+
 ![alt text] [textbox]
 [textbox]: ../screenshots/textbox.png "Demo"  
+
+
+####Text Input keyboard
 
 
 ![alt text] [textInput]
 [textInput]: ../screenshots/textInput.png "Demo"   
 
 
+####Number input keyboard
+
 ![alt text] [textInputNumber]
 [textInputNumber]: ../screenshots/textInputNumber.png "Demo"   
+
+####Number input typing  
 
 
 ![alt text] [numberTyped]
 [numberTyped]: ../screenshots/numberTyped.png "Demo"   
+
+####Password input   
 
 
 ![alt text] [textInputpassword]
 [textInputpassword]: ../screenshots/textInputpassword.png "Demo"   
 
 
-reference 
+ 
 *[back] (UI_overview.md)*  
