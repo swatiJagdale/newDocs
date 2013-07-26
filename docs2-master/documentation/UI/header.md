@@ -6,6 +6,8 @@ UI Component
 
 ###Header
 
+####Header With SignOut button
+
 		<header>
 			<a href='../index.html' class='button back'><span></span></a>
 			<h1>Header Title</h1>
@@ -24,6 +26,8 @@ Demo
 
 [Demo]: ../screenshots/header.png "Demo"
 
+####Header With Add button
+
 		<header>
 			<a href='../index.html' class='button menu'><span></span></a>
 			<h1>Header Title</h1>
@@ -41,6 +45,8 @@ Demo
 
 [headerWithAdd]: ../screenshots/headerWithAdd.png "Demo"
 
+
+####Header With Add buttontwo line header
 
 		<header>
 		<div class="headerContents"> <!-- This code is use to handle two line header title-->
