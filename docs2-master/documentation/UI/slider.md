@@ -75,24 +75,25 @@ UI Components
 
 ###Slider
 		
-<div class="sliderControl">
-						<div class="options">
-							<a href ='#' class="button blue ">Btn1</a>
-							<a href ='#' class="button blue">Btn2</a>
-							<a href ='#' class="button blue">Btn3</a>
-						</div>
-						<div class="left transition" onClick="showOptions('1')"	id='slider1'>
-							<label class='bold'>Label</label>
-							<div>$00.00</div>
-							<span></span>
-						</div>
-						<div class="right transition" onClick="showOptions('1')">
-							<span></span>
-							<div class="arrow"></div>
-						</div>
+				<div class="sliderControl">			
+					<div class="options">
+						<a href ='#' class="button blue ">Btn1</a>
+						<a href ='#' class="button blue">Btn2</a>
+						<a href ='#' class="button blue">Btn3</a>
 					</div>
+					<div class="left transition" onClick="showOptions('1')"	id='slider1'>
+						<label class='bold'>Label</label>
+						<div>$00.00</div>
+						<span></span>
+					</div>
+					<div class="right transition" onClick="showOptions('1')">
+						<span></span>
+						<div class="arrow"></div>
+					</div>
+				</div>  
+				
 
-
+Example
 
 ![alt text][slider]
 
@@ -125,7 +126,7 @@ UI Components
 					</div>
 
 
-Demo
+Example
 
 
 ![alt text][sliderWithInput]
