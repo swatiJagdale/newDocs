@@ -46,7 +46,7 @@ Demo
 [headerWithAdd]: ../screenshots/headerWithAdd.png "Demo"
 
 
-####Header With Add buttontwo line header
+####Header With two line header
 
 		<header>
 		<div class="headerContents"> <!-- This code is use to handle two line header title-->
