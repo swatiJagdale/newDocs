@@ -95,11 +95,14 @@ UI Components
 
 Example
 
+####Slider 
+
 ![alt text][slider]
 
 [slider]: ../screenshots/slider.png "demo"
 
 
+####Slider on click
 ![alt text][sliderOpen]
 
 [sliderOpen]: ../screenshots/sliderOpen.png "demo"
@@ -128,11 +131,13 @@ Example
 
 Example
 
+####Slider  
 
 ![alt text][sliderWithInput]
 
 [sliderWithInput]: ../screenshots/sliderWithInput.png "demo"
 
+####Slider on click  
 
 ![alt text][sliderwithInputOpen]
 
