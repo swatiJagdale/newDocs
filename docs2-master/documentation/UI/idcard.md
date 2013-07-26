@@ -59,22 +59,22 @@ UI Components
 			});
 			});
 			
+			  
+Example
+
+####IDCard
 			
 ![alt text][idCard]
 
 [idCard]: ../screenshots/idCard.png "demo"
 
+####Fliped IDcard  
+
 ![alt text][idCard2]
 
 [idCard2]: ../screenshots/idCard2.png "demo"
 
-![alt text][accordionClosed]
 
-[accordionClosed]: ../screenshots/accordionClosed.png "demo"
-
-![alt text][accordionClosed]
-
-[accordionClosed]: ../screenshots/accordionClosed.png "demo"
 
 		
 		
