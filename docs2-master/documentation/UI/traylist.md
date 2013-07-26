@@ -144,6 +144,7 @@ UI Components
 	
 Example
 
+####TrayList
 
 ![alt text][Demo]
 
