@@ -11,6 +11,8 @@ UI Components
 			<header class="subheader">
 				<h2 class="icon contactUs">Contact Headline with Section Icon</h2>
 			</header>
+			
+Example			
 ![alt text][contactIcon]
 
 [contactIcon]: ../screenshots/contactIcon.png "demo"
@@ -19,7 +21,9 @@ UI Components
 			<header class="subheader">
 				<h2 class="icon life">Life Headline with Section Icon</h2>
 			</header>
-			
+
+Example  
+
 ![alt text][lifeIcon]
 
 [lifeIcon]: ../screenshots/lifeIcon.png "demo"
@@ -27,7 +31,9 @@ UI Components
 			<header class="subheader">
 				<h2 class="icon auto">Auto Headline with Section Icon</h2>
 			</header>
-			
+
+Example  
+
 ![alt text][autoIcon]
 
 [autoIcon]: ../screenshots/autoIcon.png "demo"
@@ -35,7 +41,8 @@ UI Components
 			<header class="subheader">
 				<h2 class="icon dental">Dental Headline with Section Icon</h2>
 			</header>
-			
+Example  
+
 ![alt text][dentalIcon]
 
 [dentalIcon]: ../screenshots/dentalIcon.png "demo"  
@@ -45,7 +52,8 @@ UI Components
 				<h2 class="icon product">Product Headline with Section Icon</h2>
 			</header> 
 			
-			
+Example  
+
 ![alt text][productIcon]
 
 [productIcon]: ../screenshots/productIcon.png 
@@ -59,7 +67,9 @@ UI Components
 									<span class='title'>Money</span>
 								</div>
 							</a>
-							</li>
+							</li>  
+Example  
+
 ![alt text][moneyIcon]
 
 [moneyIcon]: ../screenshots/moneyIcon.png "demo"
@@ -73,7 +83,8 @@ UI Components
 								</a>
 							</li>
 							
-							
+Example  
+
 ![alt text][searchIcon]
 
 [searchIcon]: ../screenshots/searchIcon.png "demo"
@@ -88,7 +99,8 @@ UI Components
 									</div>
 								</a>
 							</li>
-							
+Example  
+
 ![alt text][autoIcon1]
 
 [autoIcon1]: ../screenshots/autoIcon1.png "demo"
@@ -102,7 +114,8 @@ UI Components
 								</a>
 							</li>
 							
-							
+Example  
+
 ![alt text][home]
 
 [home]: ../screenshots/home.png "demo"
@@ -116,7 +129,8 @@ UI Components
 								</a>
 							</li>
 							
-							
+Example  
+
 ![alt text][life]
 
 [life]: ../screenshots/life.png "demo"  
@@ -130,7 +144,8 @@ UI Components
 								</a>
 							</li>
 							
-							
+Example  
+
 ![alt text][idcardIcon]
 
 [idcardIcon]: ../screenshots/idcardIcon.png "demo"  
@@ -148,7 +163,8 @@ UI Components
 							</li>  
 							
 							
-							
+Example  
+
 ![alt text][dental]
 
 [dental]: ../screenshots/dental.png "demo"  
@@ -164,7 +180,8 @@ UI Components
 							
 							
 							
-					
+Example  
+
 ![alt text][product]
 
 [product]: ../screenshots/product.png "demo"  
@@ -180,7 +197,8 @@ UI Components
 					</li>
 					
 					
-					
+Example  
+
 ![alt text][contact]
 
 [contact]: ../screenshots/contact.png "demo"
@@ -198,7 +216,8 @@ UI Components
 					
 										
 					
-					
+Example  
+
 ![alt text][provider]
 
 [provider]: ../screenshots/provider.png "demo"
@@ -216,7 +235,8 @@ UI Components
 					
 
 							
-							
+Example  
+
 ![alt text][autoNav]
 
 [autoNav]: ../screenshots/autoNav.png "demo"  
@@ -232,7 +252,8 @@ UI Components
 					</li>  
 					
 							
-							
+Example 
+
 ![alt text][homeNav]
 
 [homeNav]: ../screenshots/homeNav.png "demo"  
@@ -248,7 +269,8 @@ UI Components
 					</li>  
 					
 							
-							
+Example 
+
 ![alt text][lifeNav]
 
 [lifeNav]: ../screenshots/lifeNav.png "demo"  
@@ -264,7 +286,8 @@ UI Components
 							
 							
 							
-							
+Example  
+
 ![alt text][dentalNav]
 
 [dentalNav]: ../screenshots/dentalNav.png "demo"  
@@ -280,7 +303,8 @@ UI Components
 							</li>  
 							
 							
-							
+Example  
+
 ![alt text][productNav]
 
 [productNav]: ../screenshots/productNav.png "demo"  
@@ -297,7 +321,8 @@ UI Components
 							
 							
 							
-							
+Example  
+
 ![alt text][searchNav]
 
 [searchNav]: ../screenshots/searchNav.png "demo"  
@@ -313,7 +338,8 @@ UI Components
 							</li>   
 							
 							
-							
+Example  
+
 ![alt text][moneyNav]
 
 [moneyNav]: ../screenshots/moneyNav.png "demo"  
@@ -328,7 +354,8 @@ UI Components
 								</a>
 							</li> 
 							
-							
+Example  
+
 ![alt text][idCardNav]
 
 [idCardNav]: ../screenshots/idCardNav.png "demo"  
@@ -343,7 +370,8 @@ UI Components
 								</a>
 							</li> 
 							
-							
+Example  
+
 ![alt text][conatctNav]
 
 [conatctNav]: ../screenshots/conatctNav.png "demo"  
