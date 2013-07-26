@@ -20,7 +20,7 @@ UI Componets
 		   }
 	
 
-Demo
+Example
 
 
 ![alt text][toggleWithoutSelection]
