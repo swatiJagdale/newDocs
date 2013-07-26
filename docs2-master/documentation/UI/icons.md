@@ -70,6 +70,8 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
+							
 ![alt text][searchIcon]
 
 [searchIcon]: ../screenshots/searchIcon.png "demo"
@@ -84,6 +86,7 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
 ![alt text][autoIcon1]
 
 [autoIcon1]: ../screenshots/autoIcon1.png "demo"
@@ -96,6 +99,8 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
+							
 ![alt text][home]
 
 [home]: ../screenshots/home.png "demo"
@@ -108,6 +113,8 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
+							
 ![alt text][life]
 
 [life]: ../screenshots/life.png "demo"
@@ -119,6 +126,8 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
+							
 ![alt text][idcardIcon]
 
 [idcardIcon]: ../screenshots/idcardIcon.png "demo"				
@@ -130,6 +139,8 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
+							
 ![alt text][dental]
 
 [dental]: ../screenshots/dental.png "demo"
@@ -141,6 +152,7 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
 					
 ![alt text][product]
 
@@ -154,9 +166,12 @@ UI Components
 						</a>
 					</li>
 					
+					
+					
 ![alt text][contact]
 
 [contact]: ../screenshots/contact.png "demo"
+
 					<li>
 						<a href='#' class='icon providerIcon' data-transition='slide' data-ajax='true'></a>
 						<a href='#' data-transition='slide' data-ajax='true'>
@@ -165,6 +180,8 @@ UI Components
 							</div>
 						</a>
 					</li>
+					
+					
 					
 ![alt text][provider]
 
@@ -178,6 +195,10 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
+							
+							
+							
 ![alt text][autoNav]
 
 [autoNav]: ../screenshots/autoNav.png "demo"							
@@ -189,9 +210,11 @@ UI Components
 									</div>
 								</a>
 							</li>
-![alt text][accordionClosed]
+							
+							
+![alt text][homeNav]
 
-[accordionClosed]: ../screenshots/accordionClosed.png "demo"							
+[homeNav]: ../screenshots/homeNav.png "demo"							
 							<li>
 								<a href='#' class='icon lifeIcon' data-transition='slide' data-ajax='true'></a>
 								<a href='#' data-transition='slide' data-ajax='true'>
@@ -200,6 +223,8 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
+							
 ![alt text][homeNav]
 
 [homeNav]: ../screenshots/homeNav.png "demo"							
@@ -211,6 +236,10 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
+							
+							
+							
 ![alt text][dentalNav]
 
 [dentalNav]: ../screenshots/dentalNav.png "demo"							
@@ -222,6 +251,8 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
+							
 ![alt text][productNav]
 
 [productNav]: ../screenshots/productNav.png "demo"							
@@ -234,6 +265,8 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
+							
 ![alt text][searchNav]
 
 [searchNav]: ../screenshots/searchNav.png "demo"							
@@ -246,6 +279,8 @@ UI Components
 									</div>
 								</a>
 							</li>
+							
+							
 ![alt text][moneyNav]
 
 [moneyNav]: ../screenshots/moneyNav.png "demo"							
