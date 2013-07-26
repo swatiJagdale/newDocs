@@ -45,13 +45,18 @@ UI Components
 			$('.tooltip div').css('display','none');
 			$('.tooltip .icon.active').removeClass('active');
 		});
-Demo
+		
+		
+Example
 
+####Tooltip
 
 ![alt text][tooltip]
 
 [tooltip]: ../screenshots/tooltip.png "Logo Title Text 2"
-		
+
+
+####tooltip after clicking on it
 	
 ![alt text][tooltipOpen]
 
