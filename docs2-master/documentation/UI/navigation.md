@@ -7,54 +7,54 @@ UI Components
 ###Navigation
 
 ####Call to action
-<nav class='calltoaction'>
+		<nav class='calltoaction'>
 				<ul>
-<li>
+				<li>
 						<a href='#' class='icon moneyIcon' data-transition='slide' data-ajax='true'></a>
 						<a href='#' data-transition='slide' data-ajax='true'>
 							<div>
 								<span class='title'>Action 1</span>
 							</div>
 						</a>
-					</li>		
+				</li>		
 		</ul>
-</nav>
+		</nav>
 ![alt text][callToAction]
 
 [callToAction]: ../screenshots/callToAction.png "demo"
 
 		
 ####Main Navigation
-<nav>
+		<nav>
 				<ul>
-	<li>
+				<li>
 						<a href='#' class='icon autoIcon' data-transition='slide' data-ajax='true'></a>
 						<a href='#' data-transition='slide' data-ajax='true'>
 							<div class='item'>
 								<span class='title'>Navigation Link</span>
 							</div>
 						</a>
-					</li>
-</ul>
-</nav>
+				</li>
+				</ul>
+		</nav>
 ![alt text][navigation]
 
 [navigation]: ../screenshots/navigation.png "demo"
 
 
 ####Sub Navigation without Details
-<nav class='subnav'>
+		<nav class='subnav'>
 				<ul>
-	<li>
+				<li>
 						<a href='#' data-transition='slide' data-ajax='true'>
 							<div class='item'>
 								<span class='title'>Sub Navigation without details</span>
 							</div>
 						</a>
 						<a href='#' class='icon navigationArrow' data-transition='slide' data-ajax='true'></a>
-					</li>		
-</ul>
-</nav>
+				</li>		
+				</ul>
+		</nav>	
 
 
 ![alt text][subnavWithoutDetails]
@@ -63,9 +63,9 @@ UI Components
 
 
 ####Sub Navigation with Details		
-<nav class='subnav'>
+		<nav class='subnav'>
 				<ul>
-<li class="details">
+				<li class="details">
 						<a href='#' data-transition="slide" data-ajax="true">
 							<div class='item'>
 								<span class="title">Sub Navigation with details</span>
@@ -74,8 +74,8 @@ UI Components
 						</a>
           				<a href="tel:123456789" class="icon call" ><span></span></a>
 			      </li>
-</ul>
-</nav>
+			      </ul>
+		</nav>
 
 ![alt text][subnavWithDetails]
 
@@ -83,19 +83,19 @@ UI Components
 
 
 ####Gray Navigation
-<nav class='subnav gray'>
+		<nav class='subnav gray'>
 				<ul>
-								
-					<li>
-						<a href=#' data-transition='slide' data-ajax='true'>
-							<div class='item'>
-								<span class='title'>Gray Navigation</span>
-							</div>
-						</a>
-						<a href='#' class='icon arrow' data-transition='slide' data-ajax='true'></a>
-					</li>	
+							
+				<li>
+					<a href=#' data-transition='slide' data-ajax='true'>
+						<div class='item'>
+							<span class='title'>Gray Navigation</span>
+						</div>
+					</a>
+					<a href='#' class='icon arrow' data-transition='slide' data-ajax='true'></a>
+				</li>	
 				</ul>
-			</nav>
+		</nav>
 
 
 ![alt text][grayNavigation]
