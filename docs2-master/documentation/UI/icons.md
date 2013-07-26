@@ -43,13 +43,13 @@ UI Components
 
 			<header class="subheader">
 				<h2 class="icon product">Product Headline with Section Icon</h2>
-			</header>  
+			</header> 
 			
 			
 ![alt text][productIcon]
 
-[productIcon]: ../screenshots/productIcon.png "demo"		
-		
+[productIcon]: ../screenshots/productIcon.png 
+
 		
 		
 							<li>
@@ -128,12 +128,13 @@ UI Components
 										<span class='title'>ID Card</span>
 									</div>
 								</a>
-							</li>   
-														
+							</li>
+							
 							
 ![alt text][idcardIcon]
 
-[idcardIcon]: ../screenshots/idcardIcon.png "demo"	 
+[idcardIcon]: ../screenshots/idcardIcon.png "demo"  
+	 
 
   
   
