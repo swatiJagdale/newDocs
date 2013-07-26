@@ -30,13 +30,14 @@ UI components
 
 
 
-Demo
+Example
 
-
+####Accordion
 ![alt text][accordionClosed]
 
 [accordionClosed]: ../screenshots/accordionClosed.png "demo"
 
+####Accordion open view
 ![alt text][accordianOpen]
 [accordianOpen]: ../screenshots/accordian_openview.png "demo"
 
